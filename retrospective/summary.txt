@@ -1,0 +1,28 @@
+Summary of Changes
+
+1. Merge Conflict Resolution (Part E1):
+   The merging conflict that came up in Part E1 was resolved by making changes, to the README.md file to incorporate both the Git version and Student ID sections. I manually combined the conflicting parts to make sure that all information was correctly included.
+
+2. Changes Made in Part C1:
+   In Part C1 three modifications were implemented in the HTML files.
+
+   a. index.html (Our Services section):
+      Changed:
+      <p>We offer some realy great services. </p>
+      to:
+      <p>We offer some really great services. </p>
+      (Corrected typo in the 'Our Services' section)
+
+   b. about.html (Staffing section):
+      Changed:
+      <p>We have extremely qualified staff to do the things that need to be done. We will never be short of poeple to meet your needs. </p>
+      to:
+      <p>We have extremely qualified staff to do the things that need to be done. We will never be short of people to meet your needs. </p>
+      (Corrected typo in the 'Staffing' section)
+
+   c. customers.html (Customer 2's testimonial):
+      Changed:
+      <p>"<i>This is the greatest company ever and we are so thrilled to be working with tme. Everyone should use them.</i>"</p>
+      to:
+      <p>"<i>This is the greatest company ever and we are so thrilled to be working with them. Everyone should use them.</i>"</p>
+      (Corrected typo in Customer 2's testimonial)

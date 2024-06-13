@@ -1,0 +1,48 @@
+commit 66c8bafed2ffd33f384a0e63c5032aaeb081c96c
+Merge: 1acd6a0 5799118
+Author: Andy <abehbo1@wgu.edu>
+Date:   Thu Jun 13 13:09:16 2024 -0700
+
+    Merged Test branch with Working branch after resolving conflict
+
+commit 1acd6a02c661c8f39f7ca2f344c68295522653a6
+Author: Andy <abehbo1@wgu.edu>
+Date:   Thu Jun 13 12:28:14 2024 -0700
+
+    Added git version to README.md
+
+commit 57991186b2cdf42a4de58fb43ee005817a906953
+Author: Andy <abehbo1@wgu.edu>
+Date:   Thu Jun 13 12:20:30 2024 -0700
+
+    Added student ID to README.md
+
+commit f3e2d1c0961d14d025973797108ea10d83b9df1a
+Author: Andy <abehbo1@wgu.edu>
+Date:   Thu Jun 13 12:10:57 2024 -0700
+
+    Corrected typo in Customer 2's testimonial in customers.html
+
+commit ec04898da0ae66da36beeab2084aa760c7ac02df
+Author: Andy <abehbo1@wgu.edu>
+Date:   Thu Jun 13 12:07:19 2024 -0700
+
+    Corrected typo in the 'Staffing' section of about.html
+
+commit 16a1b7683f7f3932819e2ca486194ed333df8b58
+Author: Andy <abehbo1@wgu.edu>
+Date:   Thu Jun 13 12:01:15 2024 -0700
+
+    Corrected typo in the 'Our Services' section of index.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
